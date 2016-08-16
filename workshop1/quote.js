@@ -5,7 +5,7 @@
  */
 
 var things = ["Joy", "Sadness", "Nervous", "Anger", "Sassy", "No emotion"];
-var programmers = ["angel", "mean", "test", "disagreement", "IDK", "Nothing"]
+var programmers = ["x person", "x person", "still x person", "x person", "x person", "x person"]
 var castles = ["museums", "bridges", "cities"]
 var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
 var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
